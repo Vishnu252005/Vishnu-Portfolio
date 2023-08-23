@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Generative AI",
+    "desc": "a certificate based on generative ai ..",
+    "image": "microsoft",
+    "category": "microsoft",
+    "links": {
+      "view": "https://drive.google.com/file/d/1QqPs3fpL2Wv0lM-ZmCKJ90tAYEwajYtl/view?usp=sharing",
+      "link": "https://github.com/Vishnu252005/Sololearn-Clone"
+    }
+  },
+
+  {
+    "name": "Tcs ion ",
+    "desc": " ",
+    "image": "Tcs ion",
+    "category": "TCS",
+    "links": {
+      "view": "https://drive.google.com/file/d/1qqagfUasA5pnc44VyOM7R_fybgUp_Rbs/view?usp=sharing",
+      "link": "https://github.com/Vishnu252005/React-Projects"
+    }
+  },
+  
+  {
+    "name": "Google Analytics",
+    "desc": "a certificate based on data analytics ..",
+    "image": "Google Analytics Certification",
+    "category": "google",
+    "links": {
+      "view": "https://drive.google.com/file/d/1TJ62Epthw9Tv0-UKkdDcOtxR80neAbyM/view?usp=sharing",
+      "link": "https://github.com/Vishnu252005/React-Projects/tree/main/weather-app"
+    }
+  },
+  {
+    "name": "Digital Marketing",
+    "desc": "a certificate based on digital marketing  ..",
+    "image": "digital",
+    "category": "google",
+    "links": {
+      "view": "https://drive.google.com/file/d/1TJxuVZ4b9940vxMTOw-7Qtzv1EifkkGT/view?usp=sharing",
+      "link": "https://github.com/Vishnu252005/React-Projects/tree/main/weather-app"
+    }
+  },
+  {
+    "name": "linkedin",
+    "desc": "a certificate based on digital marketing  ..",
+    "image": "AI",
+    "category": "linkedin",
+    "links": {
+      "view": "https://drive.google.com/file/d/1TJxuVZ4b9940vxMTOw-7Qtzv1EifkkGT/view?usp=sharing",
+      "link": "https://github.com/Vishnu252005/React-Projects/tree/main/weather-app"
+    }
+  },
+  {
+    "name": "Social Engineering",
+    "desc":"",
+    "image":"gov1",
+    "category": "gov",
+    "links":{
+      "view":"",
+      "link":""
+    }
+  },
+
+  
+
+  {
+    "name": "Stay Safe Online Campaign",
+    "desc":"",
+    "image":"gov2",
+    "category":"android",
+    "links":{
+      "view":"",
+      "link":""
+    }
+  }
+  
+
+  
+]
