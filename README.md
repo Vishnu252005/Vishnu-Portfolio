@@ -14,7 +14,7 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
 
 ## 📌 Sneak Peek of Main Page 🙈 :
-![mockup720](https://user-images.githubusercontent.com/64949957/124947013-1f682080-e02d-11eb-977e-df3bbd4fa838.png)
+![Web capture_18-8-2023_235635_127 0 0 1](https://github.com/Vishnu252005/instagram-clone/assets/141705372/fbc873d2-658b-445e-965d-bf09878739a3)
 ![ss](https://user-images.githubusercontent.com/64949957/159113640-d92665a8-f614-42b3-8456-66b97fc2e651.png)
 
 
@@ -26,6 +26,3 @@ If you want to contact me, you can reach me through below handles.
 &nbsp;&nbsp;<a href="https://linkedin.com/in/vishnu-s-382486238"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
 
 © 2023 Vishnu
-
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
