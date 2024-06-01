@@ -1,12 +1,12 @@
 [
   {
-    "name": "Sololearn",
-    "desc": "Sololearn web UI clone using tailwindCSS..",
-    "image": "sololearn",
+    "name": "Mom-Recipe",
+    "desc": "Mom recipe is an AI-powered website that makes recipes with current items in seconds..",
+    "image": "mom",
     "category": "mern",
     "links": {
-      "view": "https://vishnu252005.github.io/Sololearn-Clone/",
-      "code": "https://github.com/Vishnu252005/Sololearn-Clone"
+      "view": "https://mom-recipe.vercel.app/",
+      "code": "https://github.com/Vishnu252005/Mom-Recipe/"
     }
   },
 
@@ -34,12 +34,12 @@
 
   {
     "name": "Instagram clone",
-    "desc": "Instagram web UI clone using tailwindCSS.",
-    "image": "instagram front",
+    "desc": " Instagram  project is a cloned mimic version of Instagram's database.",
+    "image": "insta",
     "category": "mern",
     "links": {
-      "view": "https://vishnu252005.github.io/instagram-clone/",
-      "code": "https://github.com/Vishnu252005/Instagram-Clone.git"
+      "view": "https://bit.ly/3S02dvjhttps://bit.ly/3S02dvj",
+      "code": "https://github.com/Vishnu252005/Sql_Tableau_Instagram_Clone/"
     }
   },
 
@@ -66,24 +66,24 @@
   },
 
   {
-    "name": "Youtube Clone",
-    "desc": "YouTube web UI clone using tailwindCSS.",
-    "image": "youtube",
+    "name": "Weather Hub ",
+    "desc": "Weather Hub is website that has a live weather cast of any countries. It is a miniform of the google weather dashboard .",
+    "image": "weather",
     "category": "mern",
     "links": {
-      "view": "https://vishnu252005.github.io/Youtube-clone/",
-      "code": "https://github.com/Vishnu252005/Youtube-clone.git"
+      "view": "https://weatherhubs.vercel.app/",
+      "code": "https://github.com/Vishnu252005/Weather-Hubs"
     }
   },
 
   {
-    "name": "Whatsapp Clone",
-    "desc": "Whatsapp web UI clone using tailwindCSS.",
-    "image": "whatsapp",
+    "name": "Crypto Tracker ",
+    "desc": "Crypto Tracker is a website that provides real time crypto prices. It is a miniform of the google crypto dashboard.",
+    "image": "crypto",
     "category": "mern",
     "links": {
-      "view": "https://vishnu252005.github.io/Whatsapp-Clone/",
-      "code": "https://github.com/Vishnu252005/Whatsapp-Clone"
+      "view": "https://react-projects-crypto.vercel.app/",
+      "code": "https://github.com/Vishnu252005/React-Projects/tree/main/crypto-tracker"
     }
   },
 
