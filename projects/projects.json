@@ -44,9 +44,9 @@
   },
 
   {
-    "name": "Flipkart PHP",
-    "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
-    "image": "flipkartphp",
+    "name": "Web UI  clones",
+    "desc": "Web UI  clones is the list of web UI  clones created using tailwindcss.",
+    "image": "web",
     "category": "lamp",
     "links": {
       "view": "https://vishnu252005.github.io/Flipcart-clone/",
