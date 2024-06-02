@@ -5,8 +5,8 @@
     "image": "sql",
     "category": "microsoft",
     "links": {
-      "view": "https://www.hackerrank.com/certificates/fe643ca3f532",
-      "link": "https://www.hackerrank.com/certificates/fe643ca3f532"
+      "view": "https://www.hackerrank.com/certificates/3f30df8b7cab",
+      "link": "https://www.hackerrank.com/certificates/3f30df8b7cab"
     }
   },
 
@@ -51,14 +51,15 @@
       "link": "https://github.com/Vishnu252005/React-Projects/tree/main/weather-app"
     }
   },
+  
   {
-    "name": "Social Engineering",
+    "name": "Problem Solving",
     "desc":"",
-    "image":"gov1",
+    "image":"problem",
     "category": "gov",
     "links":{
-      "view":"",
-      "link":""
+      "view":"https://www.hackerrank.com/certificates/667b25f1f075",
+      "link":"https://www.hackerrank.com/certificates/667b25f1f075"
     }
   },
 
