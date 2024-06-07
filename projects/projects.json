@@ -75,16 +75,7 @@
       "code": "https://github.com/Vishnu252005/SmartBriefs"
     }
   },
-  {
-    "name": "Weather Hub ",
-    "desc": "Weather Hub is website that has a live weather cast of any countries. It is a miniform of the google weather dashboard .",
-    "image": "weather",
-    "category": "mern",
-    "links": {
-      "view": "https://weatherhubs.vercel.app/",
-      "code": "https://github.com/Vishnu252005/Weather-Hubs"
-    }
-  },
+  
 
   {
     "name": "Crypto Tracker ",
@@ -97,7 +88,16 @@
     }
   },
 
-
+  {
+    "name": "Weather Hub ",
+    "desc": "Weather Hub is website that has a live weather cast of any countries. It is a miniform of the google weather dashboard .",
+    "image": "weather",
+    "category": "mern",
+    "links": {
+      "view": "https://weatherhubs.vercel.app/",
+      "code": "https://github.com/Vishnu252005/Weather-Hubs"
+    }
+  },
   
   {
     "name": "Basic Banking App",
