@@ -69,7 +69,7 @@
     "name": "Smart Briefs",
     "desc": "SmartBriefs is a cutting-edge platform utilizing RapidAPI to offer rapid and precise summaries of articles",
     "image": "smartbriefs",
-    "category": "android",
+    "category": "mern",
     "links": {
       "view": "https://smartbriefs.vercel.app/",
       "code": "https://github.com/Vishnu252005/SmartBriefs"
@@ -92,7 +92,7 @@
     "name": "Weather Hub ",
     "desc": "Weather Hub is website that has a live weather cast of any countries. It is a miniform of the google weather dashboard .",
     "image": "weather",
-    "category": "mern",
+    "category": "android",
     "links": {
       "view": "https://weatherhubs.vercel.app/",
       "code": "https://github.com/Vishnu252005/Weather-Hubs"
