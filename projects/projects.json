@@ -20,6 +20,17 @@
       "code": "https://github.com/Vishnu252005/React-Projects"
     }
   },
+
+  {
+    "name": "Smart Briefs",
+    "desc": "SmartBriefs is a cutting-edge platform utilizing RapidAPI to offer rapid and precise summaries of articles",
+    "image": "smartbriefs",
+    "category": "android",
+    "links": {
+      "view": "https://smartbriefs.vercel.app/",
+      "code": "https://github.com/Vishnu252005/SmartBriefs"
+    }
+  },
   
   {
     "name": "Weatherly Android",
