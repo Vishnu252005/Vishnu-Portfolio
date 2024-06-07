@@ -25,8 +25,12 @@
         "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
     },
     {
-        "name": "C",
-        "icon": "https://img.icons8.com/carbon-copy/100/000000/c-programming.png"  
+        "name": "C ",
+        "icon": "https://img.icons8.com/color/48/000000/c.png"
+    }, 
+    {
+        "name": "Jupyter Notebook",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/48px-Jupyter_logo.svg.png"
     },
     {
         "name": "Firebase",
