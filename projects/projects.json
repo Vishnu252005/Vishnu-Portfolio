@@ -1,5 +1,55 @@
 [
   {
+    "name": "Vihaya - AI Study Platform",
+    "desc": "All-in-one AI-powered engineering notes app with study assistant, project management, event management, and campus tools. Cross-platform Flutter application.",
+    "image": "vihaya",
+    "category": "android",
+    "links": {
+      "view": "https://github.com/Vishnu252005/Vihaya",
+      "code": "https://github.com/Vishnu252005/Vihaya"
+    }
+  },
+  {
+    "name": "Vihaya Events",
+    "desc": "AI-powered event management web platform for colleges with event creation, payment processing, QR ticketing, analytics, and certificate generation.",
+    "image": "vihaya-events",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/Vishnu252005/vihaya-eventss",
+      "code": "https://github.com/Vishnu252005/vihaya-eventss"
+    }
+  },
+  {
+    "name": "Vihaya Event App",
+    "desc": "Flutter mobile companion app for Vihaya Events — your ultimate event management companion with Firebase auth and real-time updates.",
+    "image": "vihaya-event-app",
+    "category": "android",
+    "links": {
+      "view": "https://github.com/Vishnu252005/vihaya_event_app-",
+      "code": "https://github.com/Vishnu252005/vihaya_event_app-"
+    }
+  },
+  {
+    "name": "Vihaya Website",
+    "desc": "Marketing and landing page for the Vihaya platform built with Next.js, React, Firebase, and Tailwind CSS with study material viewer.",
+    "image": "vihaya-website",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/Vishnu252005/vihaya-website",
+      "code": "https://github.com/Vishnu252005/vihaya-website"
+    }
+  },
+  {
+    "name": "Creavo - Voiceflow Platform",
+    "desc": "A Next.js voice and workflow automation platform with node-based visual builder, Supabase auth, agent management, and analytics dashboard.",
+    "image": "voiceflow-platform",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/Vishnu252005/voiceflow-platform",
+      "code": "https://github.com/Vishnu252005/voiceflow-platform"
+    }
+  },
+  {
     "name": "Mom-Recipe",
     "desc": "Mom recipe is an AI-powered website that makes recipes with current items in seconds..",
     "image": "mom",
